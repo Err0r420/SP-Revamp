@@ -2,7 +2,8 @@
 {
     "name": "SimpleRevamp",
     "author": "Err0r",
-    "version": "0.0.1",
+    "version": "0.1.0",
+    "updater": "https://raw.githubusercontent.com/Err0r420/Theme-Revamp/main/Revamp.json?token=AVJSCNWSU7HB5A6H3OIDPYDBGJXWW",
     "license": "BBC",
     "background_url": "https:\/\/media.discordapp.net\/attachments\/879585368570228797\/883162063084589056\/Screenshot_20210902-211431_Gallery.jpg",
     "background_transparency": "90",
