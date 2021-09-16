@@ -6,7 +6,7 @@
     "updater": "https://raw.githubusercontent.com/Err0r420/Theme-Revamp/main/Revamp.json",
     "license": "BBC",
     "background_url": "https:\/\/media.discordapp.net\/attachments\/879585368570228797\/883162063084589056\/Screenshot_20210902-211431_Gallery.jpg",
-    "background_transparency": "90",
+    "alpha": "115",
     "black_400": -16777216,
     "brand_new_230": -10656333,
     "brand_new_360": -817528,
