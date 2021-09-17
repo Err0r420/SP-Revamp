@@ -2,12 +2,14 @@
 {
     "name": "SimpleRevamp",
     "author": "Err0r",
-    "version": "2.2.3",
+    "version": "2.2.4",
     "updater": "https://raw.githubusercontent.com/Err0r420/Theme-Revamp/main/Revamp.json",
     "license": "UwU No License",
-    "url": "https:\/\/media.discordapp.net\/attachments\/879585368570228797\/883162063084589056\/Screenshot_20210902-211431_Gallery.jpg",
-    "alpha": "144",
-    "black_400": -16777216,
+}
+{    "url": "https:\/\/media.discordapp.net\/attachments\/879585368570228797\/883162063084589056\/Screenshot_20210902-211431_Gallery.jpg",
+    "alpha": "244",
+}
+{    "black_400": -16777216,
     "brand_new_230": -10656333,
     "brand_new_360": -817528,
     "brand_new_560": -10066194,
