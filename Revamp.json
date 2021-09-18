@@ -1,7 +1,9 @@
 {
 	"background":{
 		"alpha":244,
-		"url":"https://media.discordapp.net/attachments/879585368570228797/883162063084589056/Screenshot_20210902-211431_Gallery.jpg"
+		"blur_radius":1,
+		"overlay_alpha":0,
+		"url":"https://media.discordapp.net/attachments/879585368570228797/888420305591210004/Screenshot_20210902-211431_Gallery.jpg"
 	},
 	"colors":{
 		"brand":-10522943,
@@ -21,7 +23,7 @@
 		"uikit_btn_compound_color_selector_light":-10522943
 	},
 	"drawable_tints":{
-		"drawable_button_grey":-14471254,
+		"drawable_button_grey":-12037448,
 		"drawable_overlay_channels_active_dark":-4605237,
 		"drawable_overlay_channels_selected_dark":-11840138,
 		"drawable_overlay_channels_selected_light":-12563091
@@ -32,7 +34,7 @@
 		"license":"UwUNoLicense",
 		"name":"SimpleRevamp",
 		"updater":"https://raw.githubusercontent.com/Err0r420/Theme-Revamp/main/Revamp.json",
-		"version":"2.2.6"
+		"version":"2.2.8"
 	},
 	"simple_colors":{
 		"accent":-817528,
