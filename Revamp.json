@@ -1,7 +1,7 @@
 {
 	"background":{
-		"alpha":244,
-		"blur_radius":1,
+		"alpha":255,
+		"blur_radius":0,
 		"overlay_alpha":0,
 		"url":"https://media.discordapp.net/attachments/879585368570228797/888420305591210004/Screenshot_20210902-211431_Gallery.jpg"
 	},
@@ -34,7 +34,7 @@
 		"license":"UwUNoLicense",
 		"name":"SimpleRevamp",
 		"updater":"https://raw.githubusercontent.com/Err0r420/Theme-Revamp/main/Revamp.json",
-		"version":"2.2.8"
+		"version":"2.2.9"
 	},
 	"simple_colors":{
 		"accent":-817528,
