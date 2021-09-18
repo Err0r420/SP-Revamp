@@ -31,15 +31,15 @@
 	"fonts":{},
 	"manifest":{
 		"author":"Err0r",
-		"license":"UwUNoLicense",
+		"license":"BBC",
 		"name":"SimpleRevamp",
 		"updater":"https://raw.githubusercontent.com/Err0r420/Theme-Revamp/main/Revamp.json",
-		"version":"2.2.9"
+		"version":"2.3.0"
 	},
 	"simple_colors":{
 		"accent":-817528,
-		"background":-14935012,
-		"background_secondary":-15263977,
+		"background":823925788,
+		"background_secondary":555161367,
 		"mention_highlight":1920367002
 	}
 }
